@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Buhari
--  👀 I am an ethusiast of machine learning, bankend and data science.
+-  👀 I am an enthusiast of machine learning, bankend and data science.
 -  🌱 I’m currently taking a cource on Machine learning.
 -     I have in-depth familiarity with data science libraries like pandas, matplot libs,...
 -     I have worked on real-life projects 

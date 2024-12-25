@@ -5,7 +5,7 @@
 -   I have in-depth familiarity with data science libraries like pandas, matplot libs,...
 -   I have worked on real-life projects 
 - 💞️I’m looking to collaborate on machine learning projects, backend and data science
-- 📫How to reach me: g-mail:abubakarbuhari017@gmail.com. Tel:08162841744 linkedln:
+- 📫How to reach me: g-mail:abubakarbuhari017@gmail.com. Tel:08162841744 linkedln: discurd:
 
 
 <!---

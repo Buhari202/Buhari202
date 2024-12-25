@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Buhari202
-- 👀 I’m interested in machine learning, fullstack and cloud computing
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on machine learning projects, web development projects
-- 📫 How to reach me: g-mail:abubakarbuhari017@gmail.com. Tel:08162841744
+- 👋 Hi, I’m @Buhari
+-  👀 I am an ethusiast of machine learning, bankend and data science.
+-  🌱 I’m currently taking a cource on Machine learning.
+-     I have in-depth familiarity with data science libraries like pandas, matplot libs,...
+-     I have worked on real-life projects 
+- 💞️ I’m looking to collaborate on machine learning projects, backend and data science
+- 📫 How to reach me: g-mail:abubakarbuhari017@gmail.com. Tel:08162841744 linkedln:
 
 
 <!---

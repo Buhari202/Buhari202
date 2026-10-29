@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Buhari
-- A programmer with experience in Java, Python and JavaScript.
-- 👀 I am an enthusiast of machine learning, bankend and data science.
-- 🌱 I’m currently taking a cource on Machine learning.
--   I have in-depth familiarity with data science libraries like pandas, matplot libs,...
--   I have worked on real-life projects 
-- 💞️I’m looking to collaborate on machine learning projects, backend and data science
-- 📫How to reach me: g-mail:abubakarbuhari017@gmail.com. Tel:08162841744 linkedln: discurd:
+- 👋 Hi, I’m Buhari
+- A computer science graduate who is trying to navigate through the world of tech
+- I am into defensive cybersecurity field, also known as SOC analysis 
+- I have experience in computer networking and system security
+- My door is always opened to collaborate on cybersecurity projects 
+- You can gind me on 
 
 
 <!---
